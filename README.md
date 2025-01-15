@@ -9,15 +9,6 @@ Ce projet Python permet de manipuler, analyser et visualiser différents types d
 - **Parcours** : Effectuez des parcours en profondeur et en largeur.
 - **Matrice d'adjacence** : Visualisez la représentation matricielle des graphes.
 
-### 🎨 Visualisation
-- **Interface utilisateur** : Interface intuitive pour charger des fichiers CSV et choisir le type d'affichage (graphe, dictionnaire, ou les deux).
-- **Historique** : Suivez vos manipulations passées avec des images générées automatiquement pour chaque graphe.
-
-### 🗂️ Types de Graphes Pris en Charge
-- Graphes non orientés
-- Graphes orientés
-- Graphes orientés pondérés
-
 ## 📸 Captures d'écran
 Ajoutez ici des captures d'écran de votre application pour illustrer son interface et ses fonctionnalités. Par exemple :
 
@@ -48,6 +39,15 @@ Ajoutez ici des captures d'écran de votre application pour illustrer son interf
     </td>
   </tr>
 </table>
+
+### 🎨 Visualisation
+- **Interface utilisateur** : Interface intuitive pour charger des fichiers CSV et choisir le type d'affichage (graphe, dictionnaire, ou les deux).
+- **Historique** : Suivez vos manipulations passées avec des images générées automatiquement pour chaque graphe.
+
+### 🗂️ Types de Graphes Pris en Charge
+- Graphes non orientés
+- Graphes orientés
+- Graphes orientés pondérés
 
 ## Dépendances Python (pip) 📦
 
